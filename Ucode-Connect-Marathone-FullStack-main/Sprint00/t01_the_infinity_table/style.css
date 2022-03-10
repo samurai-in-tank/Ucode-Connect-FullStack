@@ -1,0 +1,41 @@
+img {
+    width: 120px; 
+    height: 120px;
+    border-radius: 20px;
+}
+
+table, td {
+    border: 5px solid #fff;
+    padding: 10px;
+    text-align: center; 
+    border-collapse: collapse;
+}
+
+#Header{
+    background-color: #000;
+    color: #fff;
+}
+
+#Soul {
+    background-color: orange;
+}
+
+#Time {
+    background-color: green;
+}
+
+#Space {
+    background-color: blue;
+}
+
+#Mind {
+    background-color: yellow;
+}
+
+#Reality{
+    background-color: red;
+}
+
+#Power {
+    background-color: purple;
+}

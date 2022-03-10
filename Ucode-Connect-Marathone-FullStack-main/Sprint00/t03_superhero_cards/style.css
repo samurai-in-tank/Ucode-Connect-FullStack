@@ -1,0 +1,67 @@
+.body_box{
+    font-family: Verdana, serif;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+}
+
+div{
+    position: relative;
+    float: left;
+}
+
+.blok_hero{
+    position: relative;
+    width: 270px;
+    height: 140px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+img{
+    height: 182px;
+    position: absolute;
+}
+
+#text{
+    color: white;
+    text-align: right;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#img_captain {
+    margin-top: -32px;
+}
+
+#captain {
+    background: linear-gradient(180deg, #4568DC, #B06AB3); 
+}
+
+#img_iron { 
+    margin-top: -32px; 
+}
+
+#iron { 
+    background: linear-gradient(180deg, #e52d27, #b31217); 
+}
+
+#img_widow { 
+    margin-top: -30px;
+}
+
+#widow { 
+    background: linear-gradient(90deg, #000, #61045F); 
+}
+
+#img_spider { 
+    margin-top: -10px; 
+}
+
+#spider {
+    background: linear-gradient(180deg, #e52d27, #000); 
+}

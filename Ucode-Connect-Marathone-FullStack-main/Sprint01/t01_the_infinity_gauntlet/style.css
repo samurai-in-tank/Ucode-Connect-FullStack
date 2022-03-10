@@ -1,0 +1,11 @@
+.gauntlet {
+    height: 300px;
+}
+
+img {
+    height: 100px;
+}
+
+.gauntlet:hover + table .man_2{
+    opacity: 0;
+}

@@ -1,0 +1,32 @@
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Lato', sans-serif;
+}
+
+.style_day {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    transition: all .2s cubic-bezier(.17,.67,.83,.67);
+}
+
+.style_day:hover {
+    box-shadow: -1px 1px 11px 4px rgba(39, 161, 255, 0.35);
+}
+
+.style_day span:first-child {
+    text-align: center;
+    width: 100%;
+    font-weight: 700;
+    font-size: 1.5em;
+    background: rgb(64, 149, 181);
+    color: white;
+}
+
+.style_day span:last-child {
+    font-weight: 400;
+    font-size: 2em;
+}

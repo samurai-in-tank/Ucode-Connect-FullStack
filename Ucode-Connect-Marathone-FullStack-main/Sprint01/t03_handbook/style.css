@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+body {
+    background: rgb(240, 148, 9); /* Цвет фона */
+}
+
+code{
+    font-size: 1rem;
+}
+
+.content {
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 10px;
+   grid-row-gap: 1em;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-item{
+    background-color: white;
+}
+
+@media only screen and (max-width: 1024px) {
+    .grid-container {
+        display: grid;
+        grid-column-gap: 10px;
+       grid-row-gap: 1em;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .grid-container {
+        display: grid;
+        grid-column-gap: 10px;
+       grid-row-gap: 1em;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
