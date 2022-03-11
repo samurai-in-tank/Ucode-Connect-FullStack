@@ -14,7 +14,7 @@
         <tr>
             <th>Name</th>
             <th>Description</th>
-            <th>Tasks</th>
+            <th>Grade</th>
         </tr>
         <tr>
             <th>Sprint00</th>
