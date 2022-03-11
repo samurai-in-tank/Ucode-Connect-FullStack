@@ -10,7 +10,7 @@
     </p>
 </h1>
 
-<table width="100%" border="0" cellpadding="4" align="left">  
+<table width="100%" border="0" cellpadding="4" align="center">  
         <tr>
             <th>Name</th>
             <th>Description</th>
