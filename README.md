@@ -17,6 +17,6 @@
         </tr>
         <tr>
             <th>Web-Marafon</th>
-            <th>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Race00, Race01</th>
+            <th>html, mysql, js, node js, css</th>
         </tr>
     </table>
