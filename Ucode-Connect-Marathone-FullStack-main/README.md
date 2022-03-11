@@ -19,27 +19,27 @@
         <tr>
             <th>Sprint00</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint01</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint02</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint03</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint04</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint05</th>
@@ -49,7 +49,7 @@
          <tr>
             <th>Sprint06</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint07</th>
@@ -57,7 +57,7 @@
             <th></th>
         </tr>
          <tr>
-            <th>Sprint080</th>
+            <th>Sprint08</th>
             <th></th>
             <th></th>
         </tr>
@@ -69,7 +69,7 @@
          <tr>
             <th>Race00</th>
             <th></th>
-            <th></th>
+            <th>120</th>
         </tr>
          <tr>
             <th>Race01</th>
