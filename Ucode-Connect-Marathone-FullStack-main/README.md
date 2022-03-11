@@ -56,4 +56,24 @@
             <th></th>
             <th></th>
         </tr>
+         <tr>
+            <th>Sprint080</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint09</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Race00</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Race01</th>
+            <th></th>
+            <th></th>
+        </tr>
     </table>
