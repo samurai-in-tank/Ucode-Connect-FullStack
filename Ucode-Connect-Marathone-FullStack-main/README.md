@@ -19,12 +19,12 @@
         <tr>
             <th>Sprint00</th>
             <th></th>
-            <th>100</th>
+            <th>98</th>
         </tr>
          <tr>
             <th>Sprint01</th>
             <th></th>
-            <th>100</th>
+            <th>87</th>
         </tr>
          <tr>
             <th>Sprint02</th>
@@ -34,12 +34,12 @@
          <tr>
             <th>Sprint03</th>
             <th></th>
-            <th>100</th>
+            <th>92</th>
         </tr>
          <tr>
             <th>Sprint04</th>
             <th></th>
-            <th>100</th>
+            <th>95</th>
         </tr>
          <tr>
             <th>Sprint05</th>
@@ -49,7 +49,7 @@
          <tr>
             <th>Sprint06</th>
             <th></th>
-            <th>100</th>
+            <th></th>
         </tr>
          <tr>
             <th>Sprint07</th>
