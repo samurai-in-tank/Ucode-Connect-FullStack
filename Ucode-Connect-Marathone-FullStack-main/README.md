@@ -17,8 +17,43 @@
             <th>Tasks</th>
         </tr>
         <tr>
-            <th>Web-Marafon</th>
-            <th>html, mysql, js, node js, css</th>
-            <th>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Race00, Race01</th>
+            <th>Sprint00</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint01</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint02</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint03</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint04</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint05</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint06</th>
+            <th></th>
+            <th></th>
+        </tr>
+         <tr>
+            <th>Sprint07</th>
+            <th></th>
+            <th></th>
         </tr>
     </table>
