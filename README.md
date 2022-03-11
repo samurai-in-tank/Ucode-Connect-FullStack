@@ -19,6 +19,8 @@
         <tr>
             <th>Web-Marathone</th>
             <th>html, mysql, js, node js, css</th>
-            <th>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Race00, Race01</th>
+            <th>
+                Fundamentals of Front-end (HTML, CSS, JavaScript) and Back-end (PHP, SQL). Start creating pages in HTML, build page design in CSS. Supplement pages with an interactive interface in JS, partly in PHP for the server, work with databases in SQL.
+            </th>
         </tr>
     </table>
