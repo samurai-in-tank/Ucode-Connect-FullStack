@@ -44,7 +44,7 @@
          <tr>
             <th>Sprint05</th>
             <th></th>
-            <th></th>
+            <th>100</th>
         </tr>
          <tr>
             <th>Sprint06</th>
