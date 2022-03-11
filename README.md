@@ -17,6 +17,6 @@
         </tr>
         <tr>
             <th>Web-Marafin</th>
-            <th>Sprints: 00-09; Pace: 00-01</th>
+            <th><th>Sprint00</th><th>Race00</th><th>Race01</th></th>
         </tr>
     </table>
